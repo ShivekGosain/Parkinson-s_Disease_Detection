@@ -6,6 +6,7 @@ This project aims to build an accurate machine learning model to predict the pre
 
 ### Dataset
 
+Dataset link: [Parkinson Disease Detection - Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/parkinsons-disease-dataset-analysis/data)
 The project utilizes the "Parkinson's_Data.csv" dataset, which contains 2105 patient records across 35 features. The features include:
 * **Demographics:** Age, Gender, Ethnicity, Education Level.
 * **Lifestyle Factors:** $\text{BMI}$, Smoking, Alcohol Consumption, Physical Activity, Diet Quality, Sleep Quality.
