@@ -63,3 +63,8 @@ Advanced Feature Selection: Employ techniques like Recursive Feature Elimination
 Deep Learning Implementation: Experiment with a Multi-Layer Perceptron (MLP) Neural Network to explore whether deep learning architectures can capture more complex, non-linear relationships within the features, potentially surpassing the performance of ensemble models.
 
 Model Explainability (XAI): Integrate explainability tools like SHAP (SHapley Additive exPlanations) to provide insights into which features contribute most to the model's predictions. This is crucial for gaining trust and clinical utility in a medical diagnostic context.
+
+## 📬 Contact
+
+If you have any questions or suggestions, feel free to connect!
+
